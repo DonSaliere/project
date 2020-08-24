@@ -19,6 +19,7 @@ const rateMovie_2 = prompt('На сколько оцените его?', '');
 
 personalMovieDB.movies[nameMovie_1] = rateMovie_1;
 personalMovieDB.movies[nameMovie_2] = rateMovie_2;
+
 console.log(personalMovieDB);
 
 
